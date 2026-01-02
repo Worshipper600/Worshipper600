@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Richard Baah Nkansah</h1>
-<h3 align="center">A passionate website Developer</h3>
+<h3 align="center">AI/ML/Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **some awesome projects**
