@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="richardbaahnkansah@pythonanywhere.com">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 &nbsp;
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:worshipper600@gmail.com">
+<a href="mailto:richardbaahnkansah@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
