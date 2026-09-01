@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="richardbaahnkansah@pythonanywhere.com">
+<a href="https://richardbaahnkansah.pythonanywhere.com/">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 &nbsp;
@@ -218,7 +218,7 @@ I'm interested in **AI research, computer vision, healthcare AI, data engineerin
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+<a href="https://richardbaahnkansah.pythonanywhere.com/">Portfolio</a>
   ·   <a href="https://linkedin.com/in/richard-baah-nkansah">LinkedIn</a>
   ·   <a href="mailto:worshipper600@gmail.com">Email</a>
 
