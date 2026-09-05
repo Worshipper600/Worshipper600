@@ -1,9 +1,3 @@
-<div align="left">
-
-<img src="https://diceus.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2024/02/Cover-1-2048x794.jpeg.webp" width="50%" alt="AI Technology"/>
-
-<br>
-
 # Hi, I'm Richard Baah Nkansah :wave:
 
 ### AI Researcher · Computer Vision · Data Engineering
@@ -27,8 +21,6 @@
 </div>
 
 <br>
-
-
 
 <div align="left">
 
