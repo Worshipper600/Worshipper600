@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://diceus.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2024/02/Cover-1-2048x794.jpeg.webp" width="100%" alt="AI Technology"/>
+<img src="https://diceus.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2024/02/Cover-1-2048x794.jpeg.webp" width="50%" alt="AI Technology"/>
 
 <br>
 
