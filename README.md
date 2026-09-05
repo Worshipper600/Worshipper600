@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
 <img src="https://diceus.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2024/02/Cover-1-2048x794.jpeg.webp" width="50%" alt="AI Technology"/>
 
 <br>
 
-# Richard Baah Nkansah
+# Hi, I'm Richard Baah Nkansah :wave:
 
 ### AI Researcher · Computer Vision · Data Engineering
 
@@ -30,7 +30,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## Building at the intersection of AI & Data
 
@@ -42,7 +42,7 @@ My work spans **medical imaging, few-shot learning, remote sensing and data engi
 
 <br>
 
-<div align="center">
+<div align="left">
 
 |    🧠 AI Research   | 👁️ Computer Vision | ⚙️ Data Engineering |
 | :-----------------: | :-----------------: | :-----------------: |
